@@ -1,0 +1,8 @@
+#将课本的URL填入中urls_list中，用''包裹，结尾附加逗号，每个url一行，所有标点皆为英文符号
+#例如'https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=144425f4-87a0-4a3a-82b7-ea7be112856c&catalogType=tchMaterial&subCatalog=tchMaterial',
+
+urls_list = [
+    'https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=144425f4-87a0-4a3a-82b7-ea7be112856c&catalogType=tchMaterial&subCatalog=tchMaterial',
+    'https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=540ac93d-67fc-4353-9e49-1ef20d02b5a4&catalogType=tchMaterial&subCatalog=tchMaterial',
+    'https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=837f368e-fd4e-404a-ae3f-342d75bc0227&catalogType=tchMaterial&subCatalog=tchMaterial',
+]
